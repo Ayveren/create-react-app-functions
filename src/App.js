@@ -22,7 +22,7 @@ function App() {
           target="_blank"
           rel="noreferrer noopener"
         >
-          ZEIT Now
+          TEST Now
         </a>
         !
       </h2>
